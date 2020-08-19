@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@500&display=swap');
+body {
+  background-color: #F0D1D7;
+  background-image: linear-gradient(to bottom right, #b0c4a7, #bcd3b3);
+}
+
+.jumbotron {
+  margin: 60px 100px 40px 120px;
+  width: 75%;
+  height: 400px;
+  background-color: #fad0b6;
+}
+
+.vendor {
+ margin-left: 160px;
+}
+
+.music {
+ margin-left: 160px;
+}
+
+.survey {
+ 
+}
+
+.store {
+
+}
+@media (max-width: 440px) {
+  section {
+    padding: 20px;
+  }
+}
