@@ -28,15 +28,17 @@ body {
 }
 .databimage {
   margin-top: 0px;
+  margin-right: 100px;
 }
 
 .ven {
-  font-size: 40px;
-  margin-left: 60px;
+  font-size: 35px;
+  margin-left: 10px;
+  margin-right: 0px;
 }
 
 .venp {
-  margin-left: 60px;
+  margin-left: 10px;
 }
 .me {
  
