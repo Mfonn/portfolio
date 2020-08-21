@@ -44,20 +44,31 @@ body {
  font-size: 20px;
 }
 
-.vendor {
- 
+.jumbotron-image {
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-top: -64px;
+  margin-left: -47px;
 }
 
-.music {
-
+.musicpara {
+ margin-left: 70px;
 }
 
-.survey {
- 
+.musichead {
+  font-size: 38px;
+  margin-left: 60px;
 }
 
-.store {
+.surveyimage {
+ margin-left: -47px;
+ margin-top: -20px;
+}
 
+.surveypara {
+ font-size: 30px;
+ margin-left: 20px;
 }
 @media (max-width: 440px) {
   section {
